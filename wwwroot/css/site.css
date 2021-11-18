@@ -16,3 +16,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+.chat li > span { font-size: 9pt; margin-right: 6px; }
+.chat .t { color: purple; }
+.chat .u { color: green; }
+.chat .m { color: darkblue; }
